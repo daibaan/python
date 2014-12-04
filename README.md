@@ -18,3 +18,15 @@ git commit -m "first commit"
 git remote add origin https://github.com/daibaan/python.git
 git push -u origin master
 git status
+
+git log
+git reflog
+git show
+git show -h
+git log -h
+git reflog  -h
+
+git reset -h
+git reset --hard
+git push --force
+
