@@ -9,6 +9,7 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 git config --global user.name Daibaan
 git config --global user.email daibaan@daibaan.org
 git config --global credential.helper cache
+git config color.ui true
 
 touch README.md
 git init
