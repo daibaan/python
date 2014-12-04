@@ -6,6 +6,8 @@ SSH  git@github.com:daibaan/python.git
 We recommend every repository include a README, LICENSE, and .gitignore.
 …or create a new repository on the command line
 
+git config --global user.name Daibaan
+git config --global user.email daibaan@daibaan.org
 git config --global credential.helper cache
 
 touch README.md
